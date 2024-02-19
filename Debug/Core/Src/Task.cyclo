@@ -1,0 +1,4 @@
+../Core/Inc/Object.h:38:2:const char* Object::getName() const	1
+../Core/Src/Task.cpp:19:1:Task::Task(unsigned int, unsigned int, const char*)	1
+../Core/Src/Task.cpp:29:1:virtual void Task::onStart()	2
+../Core/Src/Task.cpp:39:1:static void Task::task(void*)	1

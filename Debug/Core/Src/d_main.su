@@ -1,0 +1,29 @@
+/opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.linux64_1.1.1.202309131626/tools/arm-none-eabi/include/c++/11.3.1/bits/std_function.h:241:5:std::_Function_base::~_Function_base()	16	static
+/opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.linux64_1.1.1.202309131626/tools/arm-none-eabi/include/c++/11.3.1/bits/std_function.h:334:11:std::function<void()>::~function()	16	static
+../Core/Src/d_main.cpp:67:1:void d_main()	24	static
+../Core/Src/d_main.cpp:76:1:int8_t d_main_usb_recv_handler(uint8_t*, uint32_t)	16	static
+../Core/Src/d_main.cpp:83:1:HAL_StatusTypeDef d_main_debug_write(const char*, size_t)	16	static
+../Core/Src/d_main.cpp:93:1:void clockControl()	8	static
+../Core/Src/d_main.cpp:99:1:void d_main_task(void*)	16	static
+/opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.linux64_1.1.1.202309131626/tools/arm-none-eabi/include/c++/11.3.1/bits/std_function.h:239:5:constexpr std::_Function_base::_Function_base()	16	static
+/opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.linux64_1.1.1.202309131626/tools/arm-none-eabi/include/c++/11.3.1/bits/std_function.h:375:7:)>::function(std::nullptr_t) [with _Res = void; _ArgTypes = {}]	16	static
+../Core/Inc/Task.h:19:7:Task::~Task()	16	static
+../Core/Inc/Task.h:19:7:virtual Task::~Task()	16	static
+../Core/Inc/Clock.h:21:7:Clock::~Clock()	16	static
+../Core/Inc/Clock.h:21:7:virtual Clock::~Clock()	16	static
+../Core/Inc/Menu.h:20:7:Menu::~Menu()	16	static
+../Core/Inc/Menu.h:20:7:virtual Menu::~Menu()	16	static
+../Core/Inc/Gpio.h:17:7:Gpio::~Gpio()	16	static
+../Core/Inc/PinController.h:18:7:PinController::~PinController()	16	static
+../Core/Inc/PinController.h:18:7:virtual PinController::~PinController()	16	static
+../Core/Inc/SoftwareTimer.h:23:7:SoftwareTimer::~SoftwareTimer()	16	static
+../Core/Inc/SoftwareTimer.h:23:7:virtual SoftwareTimer::~SoftwareTimer()	16	static
+../Core/Inc/Pin.h:20:7:Pin::~Pin()	16	static
+../Core/Inc/Pin.h:20:7:virtual Pin::~Pin()	16	static
+../Core/Inc/GPin.h:18:7:GPin::~GPin()	16	static
+../Core/Inc/GPin.h:18:7:virtual GPin::~GPin()	16	static
+../Core/Inc/PWM.h:16:7:PWM::~PWM()	16	static
+../Core/Inc/PWM.h:16:7:virtual PWM::~PWM()	16	static
+../Core/Src/d_main.cpp:108:1:void __static_initialization_and_destruction_0(int, int)	96	static
+../Core/Src/d_main.cpp:108:1:cpp)	8	static
+../Core/Src/d_main.cpp:108:1:cpp)	8	static

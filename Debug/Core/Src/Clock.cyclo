@@ -1,0 +1,7 @@
+../Core/Inc/Task.h:19:7:Task::~Task()	1
+../Core/Inc/Task.h:19:7:virtual Task::~Task()	1
+../Core/Src/Clock.cpp:15:1:Clock::Clock(RTC_HandleTypeDef*, PWM&, PinController&, PinController&, PinController&, PinController&, PinController&, PinController&, PinController&, const char*)	1
+../Core/Src/Clock.cpp:32:1:virtual void Clock::run()	6
+../Core/Src/Clock.cpp:110:1:void Clock::dataSend()	17
+../Core/Inc/Clock.h:21:7:Clock::~Clock()	1
+../Core/Inc/Clock.h:21:7:virtual Clock::~Clock()	1

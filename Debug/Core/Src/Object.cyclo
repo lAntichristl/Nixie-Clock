@@ -1,0 +1,6 @@
+../Core/Src/Object.cpp:18:1:static void Object::start(const char*, unsigned int)	5
+../Core/Src/Object.cpp:33:1:Object::~Object()	1
+../Core/Src/Object.cpp:33:1:virtual Object::~Object()	1
+../Core/Src/Object.cpp:39:1:Object::Object(const char*)	4
+../Core/Src/Object.cpp:53:1:virtual void Object::onStart()	1
+../Core/Src/Object.cpp:57:6:virtual void Object::onInit()	1

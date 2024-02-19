@@ -1,0 +1,5 @@
+../Core/Inc/Pin.h:51:2:void Pin::setOn(bool)	1
+../Core/Src/PinController.cpp:16:1:PinController::PinController(Pin&, const char*)	1
+../Core/Src/PinController.cpp:23:1:void PinController::set(bool)	1
+../Core/Inc/PinController.h:18:7:PinController::~PinController()	1
+../Core/Inc/PinController.h:18:7:virtual PinController::~PinController()	1

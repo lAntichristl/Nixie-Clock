@@ -1,0 +1,6 @@
+../Core/Inc/Task.h:19:7:Task::~Task()	1
+../Core/Inc/Task.h:19:7:virtual Task::~Task()	1
+../Core/Src/Menu.cpp:14:1:Menu::Menu(Gpio&, Gpio&, Gpio&, const char*)	1
+../Core/Src/Menu.cpp:24:1:virtual void Menu::run()	7
+../Core/Inc/Menu.h:20:7:Menu::~Menu()	1
+../Core/Inc/Menu.h:20:7:virtual Menu::~Menu()	1
